@@ -30,7 +30,7 @@
           <menu>\
             <li><a href="https://github.com/<%=$.spring.config.owner%>/<%=$.spring.config.repo%>/issues?state=open" target="_blank">View on GitHub</a></li>\
           </menu>\
-          <footer>Powered by <a href="https://github.com/zhaoda/spring" target="_blank">Spring</a></footer>\
+          <footer>Powered by Spring</footer>\
         ',
       render = template.compile(source)
 
